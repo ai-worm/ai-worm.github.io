@@ -1,10 +1,20 @@
-# Created by https://www.toptal.com/developers/gitignore/api/hexo,visualstudiocode,node
-# Edit at https://www.toptal.com/developers/gitignore?templates=hexo,visualstudiocode,node
+# Created by https://www.toptal.com/developers/gitignore/api/hugo,visualstudiocode,node
+# Edit at https://www.toptal.com/developers/gitignore?templates=hugo,visualstudiocode,node
 
-### Hexo ###
-db.json
-public/
-.deploy_git/
+### Hugo ###
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Temporary lock file while building
+/.hugo_build.lock
 
 ### Node ###
 # Logs
@@ -171,6 +181,4 @@ dist
 # Ignore code-workspaces
 *.code-workspace
 
-# End of https://www.toptal.com/developers/gitignore/api/hexo,visualstudiocode,node
-
-# node_modules
+# End of https://www.toptal.com/developers/gitignore/api/hugo,visualstudiocode,node
