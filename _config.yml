@@ -4,7 +4,7 @@ description: ''
 keywords: null
 author: Ai Worm
 language: en
-timezone: ''
+timezone: 'America/New_York'
 url: http://example.com
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
