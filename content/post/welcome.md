@@ -5,8 +5,8 @@ description: ""
 date:        2022-05-07
 author:      ""
 image:       ""
-tags:        ["tag1", "tag2"]
-categories:  ["Tech" ]
+tags:        ["posts", "blog"]
+# categories:  ["Random" ]
 layout:      "post"
 ---
 
