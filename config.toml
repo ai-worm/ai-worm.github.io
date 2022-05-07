@@ -1,5 +1,5 @@
-baseurl = "https://zhaohuabing.com"
-title = "Huabing Blog"
+baseurl = "/"
+title = "Ai Worm"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -14,13 +14,13 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/home-bg-jeep.jpg"
-  SEOTitle = "赵化冰的博客 | Zhaohuabing Blog"
-  description = "赵化冰，程序员, 开源爱好者，生活探险家 | 这里是 赵化冰 的博客，与你一起发现更大的世界。"
-  keyword = "赵化冰, zhaohuabing, Zhaohuabing, , 赵化冰的网络日志, 赵化冰的博客, Zhaohuabing Blog, 博客, 个人网站, 互联网, Web, 云原生, PaaS, Istio, Kubernetes, 微服务, Microservice"
-  slogan = "路在脚下，心向远方"
+  SEOTitle = "Book | Blogs"
+  description = "Welcome to Ai Worm's online blog for books/story and illustration updates with the occasional code。"
+  keyword = "Ai Worm, Ai Worm's Blog, Books, Story, Illustration, Code, Eva Midnight, The Princess of Eternal Death"
+  slogan = "Create, Fail, Succeed"
 
   image_404 = "img/404-bg.jpg"
-  title_404 = "你来到了没有知识的荒原 :("
+  title_404 = "Sorry, the page you are looking for is not found :("
   omit_categories = false
 
   # leancloud storage for page view counter
@@ -29,7 +29,7 @@ home = ["HTML", "RSS", "Algolia"]
   leancloud_app_key = ""
 
   # algolia site search
-  algolia_search = true
+  algolia_search = false
   algolia_appId = ""
   algolia_indexName = ""
   algolia_apiKey = ""
@@ -37,7 +37,7 @@ home = ["HTML", "RSS", "Algolia"]
   # Sidebar settings
   sidebar_about_description = "Software Developer, Open Source Enthusiast and Life Adventurer"
   #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
-  sidebar_avatar = "img/zhaohuabing.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "img/ai-worm-profile.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
   featured_condition_size = 1 
@@ -55,10 +55,10 @@ home = ["HTML", "RSS", "Algolia"]
   twikoo_env_id = ""
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
-  reward = true 
-  # reward_guide = "如果这篇文章对你有用,请随意打赏" 
+  reward = false 
+  reward_guide = "Do you like my work? Feel free to send me a reward!" 
 
-  friends = true
+  friends = false
   bookmarks = false
   about_me = true
 
@@ -68,19 +68,19 @@ home = ["HTML", "RSS", "Algolia"]
 
   [params.social]
   rss            = true 
-  email          = "youremail@gmail.com"
+  email          = "aiworm@yahoo.com"
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
-  #twitter       = "full profile url in twitter"
-  linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
-  stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
+  twitter       = "https://twitter.com/Ai_Worm1"
+  #linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
+  #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
   #instagram     = "full profile url in instagram"
-  github         = "https://github.com/yourgithub"
-  wechat         = "your wechat qr code image"
+  github         = "https://github.com/ai-worm"
+  #wechat         = "your wechat qr code image"
   #medium        = "full profile url in medium"
   #slack         = "full workspace url in slack"
   #pinterest     = "full profile url in pinterest"
-  #reddit        = "full profile url in reddit"
+  reddit        = "https://www.reddit.com/user/aiworm"
   #gitlab        = "full profile url in gitlab"
   #mastodon      = "full profile url in mastodon"
   #keybase       = "full profile url in keybase"
@@ -88,8 +88,13 @@ home = ["HTML", "RSS", "Algolia"]
   #git           = "full profile url for git user"
   
   [[params.friend_link]]
-  title = "Linda的博客"
-  href =  "https://zhaozhihan.com"
+  title = "I Have No Friends :("
+  href =  "#JustKidding"
+  target = "_self"
+  [[params.friend_link]]
+  title = "KarlyGiirl's Twitch"
+  href = "https://www.twitch.tv/karlygiirl"
+  target = "_blank"
 
   [[params.bookmark_link]]
   title =  "Martin Fowler"
@@ -130,3 +135,15 @@ params = ["categories", "tags"]
     startLevel = 1
   [markup.highlight]
     style = "dracula"
+
+[params.giscus]
+data_repo="ai-worm/ai-worm.github.io"
+data_repo_id="R_kgDOHS2PQw"
+data_category="General"
+data_category_id="DIC_kwDOHS2PQ84CO-Xr"
+data_mapping="pathname"
+data_reactions_enabled="1"
+data_emit_metadata="0"
+data_theme="light"
+data_lang="en"
+crossorigin="anonymous"

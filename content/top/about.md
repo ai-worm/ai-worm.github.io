@@ -1,25 +1,33 @@
-![](/img/zhaohuabing.png)  **_Huabing Zhao_** is an ICT veteran with a passion for open source. He has a solid experience in the telecommunication and information technology industry for more than 17 years.
+# Who is AI Worm?
 
-Throughout his career, he has built a number of large-scale, cross-country OSS/BSS platforms/systems and operation tools, most of them are still running in productions.
+**Ai Worm** is an individual with an interest in programming and story writing, all while dabbling in the art of illustration and photo manipulation. In lame-mens terms, he is a programmer and a story writer or a content creator as you would say.
 
-He loves open source and has been contributing to a variety of open source projects, including Istio(Service Mesh https://istio.io), ONAP(Open Network Automation Platform https://wiki.onap.org), Hugo(static site generators https://themes.gohugo.io/hugo-theme-cleanwhite/), etc.
+## The History of The Name
 
-He also has strong interests in various tech stuff such as Artificial Intelligence, Cryptocurrencies, Smart Home.
+Like all names, there is a story behind the meaning. You could say that the name is a combination of the words "ai" and "worm", where "ai" is the word for "artificial intelligence" and "worm" is the word that represents his personality or actual name.
 
-Huabing holds a BS in Computer Science and Technology from Chongqing University in China.
+But you would be wrong. It was indeed inspired by the term Artificial Intelligence, a concept that has intrigued his mind the moment he first heard the words, "Machine Learning".
 
-Currently, Huabing is working on a 5G NFV&SDN orchestration and management platform, at the same time, he also wears the hat of PTL in ONAP(http://www.onap.org) open source project.
+However it came to be known that at the time of his childhood, man and machine were still far from the fantasy world where the two were equal.
 
-He is happy with his current job, but also willing to take new challenges if the opportunity matches his career path.
+As such he decided to bring forth the stories of RoboCop, Astro boy, Iron Man and Sym-Bionic Titan to life. (I made sure to purposely not include Generator Rex and Ben 10 because they are obviously a given.)
 
-While he is not working, he enjoys watching movies, swimming, hiking, travelling, writing blogs and learning languages.
+The name of this project, a dream which has yet to fully emerge to the world is none other than "Allinventor". A word so simple that it literally means "Creator of All".
 
-Feel free to connect Huabing via Github (https://github.com/zhaohuabing) or drop him an email (zhaohuabing@gmail.com).
+Taking the initials of this goal and combing them together with his real life initials he got the name "AI Worm".
 
-## Talks
+As for what "worm" spells... let's just say that it is the word that represents his personality without his parents ever realizing the secret of the name they have given him.
 
-* [Service Mesh in Action with ONAP] (https://www.slideshare.net/HuabingZhao/service-mesh-in-action-with-onap) GNTC, 南京, 2018
-* [MSB to Support Carrier Grade ONAP Microservice Architecture with Service Mesh] (https://www.slideshare.net/HuabingZhao/msb-to-support-carrier-grade-onap-microservice-architecture-with-service-mesh) ONS, Los Angeles, 2018
-* [Microservice Powered Orchestration](https://www.slideshare.net/HuabingZhao/microservice-powered-orchestration-126100339) ONS, Santa Clara, 2017
-* [MSB Technical Deep Dive and ONAP Use Cases] (https://www.slideshare.net/HuabingZhao/msb-depp-dive/) ONAP Developer Event, New Jersey, 2017
-* [Microservice Bus Tutorial] (https://www.slideshare.net/HuabingZhao/microservice-bus-tutorial) ONAP Developer Event, Paris, 2017
+Truthfully, almost no being in existence knows his full name apart form his immediate family members. A blessing that keeps he keeps from spreading. Why? Because people just forget and it makes an interesting conversation in his mind.
+
+## Last Question... IS HE SANE?
+
+No, in fact, he is not sane. He is in truth the most insane and dangerous person in the world.
+
+Why? Because I say so.
+
+# Welcome To My Website!
+
+The place where I share all my stories and projects ranging from programming to story writing.
+
+This site was created purely for fun and to share my stories and projects with others. (Let's ignore the boredom part as well...)
